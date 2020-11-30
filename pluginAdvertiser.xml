@@ -85,8 +85,8 @@
         <entry key="*.conf">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="org.jetbrains.plugins.hocon" />
+              <option name="myPluginName" value="HOCON" />
             </plugin>
           </value>
         </entry>
@@ -130,6 +130,15 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.php" />
               <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cvp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DevKit" />
+              <option name="myPluginName" value="Plugin DevKit" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -192,7 +201,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -247,6 +255,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.fnc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -535,6 +551,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.tasks" />
+              <option name="myPluginName" value="Task Management" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jrxml">
           <value>
             <plugin>
@@ -647,6 +672,14 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.kubernetes" />
               <option name="myPluginName" value="com.intellij.kubernetes" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.log">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.ideolog" />
+              <option name="myPluginName" value="Ideolog" />
             </plugin>
           </value>
         </entry>
@@ -862,6 +895,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pkb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pkg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pks">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.plsql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.png">
           <value>
             <plugin>
@@ -916,6 +981,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.prc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.properties">
           <value>
             <plugin>
@@ -939,6 +1012,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1030,6 +1111,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.smali">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.android.tools.idea.smali" />
+              <option name="myPluginName" value="Smali Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.snippet">
           <value>
             <plugin>
@@ -1042,9 +1132,8 @@
         <entry key="*.sql">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1126,11 +1215,43 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tpb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tpe">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tpl">
           <value>
             <plugin>
               <option name="myPluginId" value="com.jetbrains.php" />
               <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tps">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.trg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1166,6 +1287,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vw">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1357,6 +1486,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".classpath">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.idea.eclipse" />
+              <option name="myPluginName" value="Eclipse Interoperability" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".editorconfig">
           <value>
             <plugin>
@@ -1375,6 +1513,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".project">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.idea.eclipse" />
+              <option name="myPluginName" value="Eclipse Interoperability" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="Cargo.lock">
           <value>
             <plugin>
@@ -1388,7 +1535,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1397,7 +1543,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1406,7 +1551,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1415,7 +1559,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1424,7 +1567,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1534,6 +1676,16 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Terraform" pluginName="HashiCorp Terraform / HCL language support" pluginId="org.intellij.plugins.hcl" />
+                    </value>
+                  </entry>
+                  <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
+                    </value>
+                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
@@ -1554,6 +1706,16 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="DBNMethodRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Method" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
+                  <entry key="DBNStatementRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Statement" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
@@ -1567,6 +1729,11 @@
                   <entry key="GroovyScriptRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" />
+                    </value>
+                  </entry>
+                  <entry key="HaskellStackConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Haskell Stack" pluginName="IntelliJ-Haskell" pluginId="intellij.haskell" />
                     </value>
                   </entry>
                   <entry key="JUnit">
@@ -1647,6 +1814,11 @@
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="TestNG">
+                    <value>
+                      <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -1752,6 +1924,16 @@
                   <entry key="jar">
                     <value>
                       <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="javafx">
+                    <value>
+                      <FeaturePluginData displayName="JavaFx application" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
+                    </value>
+                  </entry>
+                  <entry key="javafx-preloader">
+                    <value>
+                      <FeaturePluginData displayName="JavaFx preloader" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
                     </value>
                   </entry>
                   <entry key="plain">
