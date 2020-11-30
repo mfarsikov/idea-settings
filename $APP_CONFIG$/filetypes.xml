@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tsv" type="CSV/TSV" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="spec_failures" type="PLAIN_TEXT" />
+      <mapping pattern="network-parameters" type="PLAIN_TEXT" />
+      <mapping pattern="rst" type="PLAIN_TEXT" />
+      <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping ext="processors" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" type="TSV" />
+      <removed_mapping ext="chm" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>
