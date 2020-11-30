@@ -1,0 +1,7 @@
+<templateSet group="plain">
+  <template name="pf" value="private final " description="private final" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
