@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for macOS copy1" parent="Mac OS X 10.5+">
+<keymap version="1" name="Remap colemak " parent="Mac OS X 10.5+">
   <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="Console.TableResult.PreviousPage" />
@@ -12,7 +12,6 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="EditorLeftWithSelection">
@@ -80,15 +79,24 @@
     <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="Git.CreateNewBranch">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="ImplementMethods" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodHierarchy" />
   <action id="MinimizeCurrentWindow" />
@@ -104,7 +112,14 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowSettings" />
   <action id="ShowUmlDiagramPopup" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
 </keymap>
