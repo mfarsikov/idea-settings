@@ -1,5 +1,17 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group seperator="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Stop" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
@@ -24,13 +36,13 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="QuickImplementations" is_action="true" action_type="1" position="0">
+    <group value="QuickJavaDoc" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="osmedile.intellij.stringmanip.RepeatAction" is_action="true" action_type="1" position="1">
+    <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -43,13 +55,13 @@
       <path value="Default with Alt Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="2">
+    <group value="QuickImplementations" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="QuickJavaDoc" is_action="true" action_type="1" position="3">
+    <group value="osmedile.intellij.stringmanip.RepeatAction" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
