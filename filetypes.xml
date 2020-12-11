@@ -1,16 +1,31 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="runtime" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="datamart-membership-info" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="upload" type="PLAIN_TEXT" />
+      <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping pattern="spec_failures" type="PLAIN_TEXT" />
       <mapping pattern="network-parameters" type="PLAIN_TEXT" />
       <mapping pattern="rst" type="PLAIN_TEXT" />
+      <mapping pattern="META-INF" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern="claim" type="PLAIN_TEXT" />
       <mapping ext="processors" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
+      <mapping ext="jxb" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="Native" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="t" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
