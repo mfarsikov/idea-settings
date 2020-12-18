@@ -4,6 +4,8 @@
       <mapping ext="runtime" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="datamart-membership-info" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="upload" type="PLAIN_TEXT" />
       <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping pattern="spec_failures" type="PLAIN_TEXT" />
@@ -24,8 +26,6 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="t" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
