@@ -125,6 +125,10 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowSettings" />
   <action id="ShowUmlDiagramPopup" />
