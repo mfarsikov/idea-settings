@@ -1,0 +1,6 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
+</keymap>
