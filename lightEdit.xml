@@ -1,6 +1,9 @@
 <application>
   <component name="LightEdit">
     <option name="autosaveMode" value="true" />
+    <option name="frameInfo">
+      <frame x="196" y="43" width="1400" height="977" />
+    </option>
     <option name="preferredMode" value="LightEdit" />
   </component>
 </application>
