@@ -50,6 +50,13 @@
       <path value="Default with Alt Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Shift Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="QuickJavaDoc" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
@@ -61,6 +68,13 @@
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Default with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RenameElement" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Shift Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="XDebugger.AttachToProcess" is_action="true" action_type="1" position="1">
@@ -80,12 +94,6 @@
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Default with Cmd Key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="9">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
