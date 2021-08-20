@@ -18,6 +18,7 @@
       <mapping pattern="network-parameters" type="PLAIN_TEXT" />
       <mapping ext="processors" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
+      <mapping ext="theme" type="PLAIN_TEXT" />
       <mapping ext="jxb" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
