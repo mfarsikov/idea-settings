@@ -1,0 +1,11 @@
+<application>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="9____fW_gjourney_sample_data_2_parquet_0.data.csv/journey_sample_data_2.parquet(downloaded)" />
+        <option value="__Yf_S__mjourney_sample_data_parquet_0.data.csv/journey_sample_data.parquet(downloaded)" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="/private/var/folders/nl/x0z2nwvs2qxfmbs7x7h4x5kh0000gp/T/HDFS-downloaded" />
+  </component>
+</application>
