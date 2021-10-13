@@ -89,6 +89,11 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="EvaluateExpression" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="FileStructurePopup" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Touch Bar" />
