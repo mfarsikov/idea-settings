@@ -2,13 +2,13 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="__7___kDtmp_2_journey_stage_parquet_0.data.csv/tmp_2_journey_stage.parquet(downloaded)" />
-        <option value="_Mg___tmp_1_journey_stage_parquet_0.data.csv/tmp_1_journey_stage.parquet(downloaded)" />
-        <option value="2HNaUP__ftmp__journey_stage_parquet_0.data.csv/tmp__journey_stage.parquet(downloaded)" />
         <option value="__Pmk__ejourney_stage_parquet_0.data.csv/journey_stage.parquet(downloaded)" />
-        <option value="_Hg____Yjourney_stage_sample_data_parquet_0.data.csv/journey_stage_sample_data.parquet(downloaded)" />
-        <option value="9____fW_gjourney_sample_data_2_parquet_0.data.csv/journey_sample_data_2.parquet(downloaded)" />
         <option value="__Yf_S__mjourney_sample_data_parquet_0.data.csv/journey_sample_data.parquet(downloaded)" />
+        <option value="9____fW_gjourney_sample_data_2_parquet_0.data.csv/journey_sample_data_2.parquet(downloaded)" />
+        <option value="_Hg____Yjourney_stage_sample_data_parquet_0.data.csv/journey_stage_sample_data.parquet(downloaded)" />
+        <option value="2HNaUP__ftmp__journey_stage_parquet_0.data.csv/tmp__journey_stage.parquet(downloaded)" />
+        <option value="_Mg___tmp_1_journey_stage_parquet_0.data.csv/tmp_1_journey_stage.parquet(downloaded)" />
+        <option value="__7___kDtmp_2_journey_stage_parquet_0.data.csv/tmp_2_journey_stage.parquet(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/nl/x0z2nwvs2qxfmbs7x7h4x5kh0000gp/T/HDFS-downloaded" />
