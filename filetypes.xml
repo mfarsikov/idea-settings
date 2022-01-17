@@ -5,6 +5,7 @@
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
       <mapping pattern="fail" type="AUTO_DETECTED" />
+      <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="datamart-membership-info" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
