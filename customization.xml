@@ -42,6 +42,13 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RenameElement" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Shift Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
@@ -73,7 +80,7 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="FileStructurePopup" is_action="true" action_type="1" position="6">
+    <group value="FileStructurePopup" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
