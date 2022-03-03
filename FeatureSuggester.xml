@@ -2,6 +2,7 @@
   <component name="FeatureSuggesterSettings">
     <option name="suggestionLastShownTime">
       <map>
+        <entry key="Completion" value="1646330479365" />
         <entry key="Surround with" value="1645983337344" />
       </map>
     </option>
@@ -13,6 +14,7 @@
         <option value="1646059774362" />
         <option value="1646087179088" />
         <option value="1646220465768" />
+        <option value="1646330099658" />
       </list>
     </option>
   </component>
