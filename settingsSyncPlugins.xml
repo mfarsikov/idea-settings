@@ -57,15 +57,12 @@
                   <option value="com.intellij.modules.ultimate" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.kubernetes">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="net.seesharpsoft.intellij.plugins.csv">
@@ -99,7 +96,6 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -111,6 +107,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
