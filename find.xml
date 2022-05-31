@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,12 +17,12 @@
     <mask>*.kts</mask>
     <mask>build.gradle.kts</mask>
     <mask>*build*</mask>
-    <mask>*.groovy</mask>
     <mask>*.yml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
