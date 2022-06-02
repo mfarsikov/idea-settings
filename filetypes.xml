@@ -8,6 +8,7 @@
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="datamart-membership-info" type="JSON" />
+      <mapping ext="conf" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
