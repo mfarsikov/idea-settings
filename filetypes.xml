@@ -5,6 +5,9 @@
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
       <mapping pattern="fail" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="datamart-membership-info" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -22,6 +25,7 @@
       <mapping ext="processors" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
       <mapping ext="jxb" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="7ZIP" />
