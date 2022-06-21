@@ -4,6 +4,10 @@
   </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.UnshelveSilently" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CloseContent" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -107,6 +111,7 @@
   </action>
   <action id="GotoSuperMethod" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.Thumbnails.Hide" />
   <action id="ImplementMethods" />
   <action id="Inline">
     <keyboard-shortcut first-keystroke="meta alt k" />
