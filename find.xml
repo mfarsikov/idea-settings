@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>build.gradle</mask>
     <mask>*.json</mask>
-    <mask>*.kts</mask>
     <mask>build.gradle.kts</mask>
     <mask>*build*</mask>
     <mask>*.yml</mask>
@@ -19,5 +19,6 @@
     <mask>pom.xml</mask>
     <mask>*.groovy</mask>
     <mask>*.java</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
