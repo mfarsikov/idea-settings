@@ -47,7 +47,7 @@
       </map>
     </option>
     <option name="TOOLTIPS_DELAY_MS" value="200" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
