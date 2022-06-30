@@ -19,5 +19,6 @@
     <mask>*.groovy</mask>
     <mask>*.java</mask>
     <mask>*.kts</mask>
+    <mask>*config*</mask>
   </component>
 </application>
