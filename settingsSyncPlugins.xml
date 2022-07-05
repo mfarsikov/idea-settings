@@ -688,6 +688,11 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="org.jetbrains.plugins.go-template">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="org.jetbrains.plugins.haml">
           <value>
             <PluginData>
