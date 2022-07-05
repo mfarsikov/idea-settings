@@ -14,7 +14,6 @@
     <mask>*build*</mask>
     <mask>*.yml</mask>
     <mask>*.sql</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.groovy</mask>
@@ -22,5 +21,6 @@
     <mask>*.kts</mask>
     <mask>*config*</mask>
     <mask>*.properties</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
