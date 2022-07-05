@@ -257,6 +257,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.chencn.yamlandprops">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.aop">
           <value>
             <PluginData>
