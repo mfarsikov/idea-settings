@@ -15,19 +15,47 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:hazelcast/hazelcast.git" />
+          <option name="url" value="git@github.com:jobtoday/middleware.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:demandbase/data-engineering/db1-cdc.git" />
+          <option name="url" value="git@github.com:jobtoday/unread-messages-notification-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:VovaKarpenko/test.git" />
+          <option name="url" value="git@github.com:jobtoday/notification-templates.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:demandbase/data-engineering/keyword-crawler-dataflow.git" />
+          <option name="url" value="git@github.com:jobtoday/rfc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jobtoday/email-confirmation-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jobtoday/email-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jobtoday/ab-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jobtoday/campaigns-configuration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jobtoday/suggesters.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jobtoday/job-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:spring-projects/spring-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

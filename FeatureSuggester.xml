@@ -2,43 +2,43 @@
   <component name="FeatureSuggesterSettings">
     <option name="suggestionLastShownTime">
       <map>
-        <entry key="Completion" value="1646330479365" />
-        <entry key="Introduce variable" value="1646345299558" />
-        <entry key="Surround with" value="1645983337344" />
+        <entry key="Edit breakpoint" value="1646247411018" />
+        <entry key="Introduce variable" value="1646248739946" />
+        <entry key="Mute breakpoints" value="1646251496045" />
       </map>
     </option>
     <option name="workingDays">
       <list>
-        <option value="1654184135088" />
-        <option value="1654245077939" />
-        <option value="1654455231076" />
-        <option value="1654507417329" />
-        <option value="1654605363047" />
-        <option value="1654753899413" />
-        <option value="1655186805690" />
-        <option value="1655300581470" />
-        <option value="1655368088293" />
-        <option value="1655475241938" />
-        <option value="1655721148333" />
-        <option value="1655901841924" />
-        <option value="1655974276685" />
-        <option value="1656326110812" />
-        <option value="1656500668981" />
-        <option value="1656578857795" />
-        <option value="1656683712169" />
-        <option value="1656832112995" />
-        <option value="1657083472394" />
-        <option value="1657171806780" />
-        <option value="1657259952964" />
-        <option value="1657394053180" />
-        <option value="1657454294776" />
-        <option value="1657546283849" />
-        <option value="1657605866281" />
-        <option value="1657712715423" />
-        <option value="1657746003567" />
-        <option value="1658078552849" />
-        <option value="1658093092090" />
-        <option value="1658178522262" />
+        <option value="1655326804378" />
+        <option value="1655451871835" />
+        <option value="1655499830272" />
+        <option value="1655706612447" />
+        <option value="1655797980012" />
+        <option value="1655846761293" />
+        <option value="1655966019209" />
+        <option value="1656018001239" />
+        <option value="1656104410004" />
+        <option value="1656190816593" />
+        <option value="1656318789260" />
+        <option value="1656363776681" />
+        <option value="1656481582968" />
+        <option value="1656537646976" />
+        <option value="1656654972568" />
+        <option value="1656709267694" />
+        <option value="1656795602659" />
+        <option value="1656922680845" />
+        <option value="1657009021265" />
+        <option value="1657059101351" />
+        <option value="1657179977281" />
+        <option value="1657229327679" />
+        <option value="1657314002339" />
+        <option value="1657451622053" />
+        <option value="1657527156751" />
+        <option value="1657613707180" />
+        <option value="1657694376969" />
+        <option value="1657787726357" />
+        <option value="1657865973053" />
+        <option value="1658128779802" />
       </list>
     </option>
   </component>

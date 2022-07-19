@@ -2,7 +2,8 @@
   <component name="IgnoredPluginSuggestions">
     <option name="pluginIds">
       <list>
-        <option value="com.intellij.guice" />
+        <option value="aws.toolkit" />
+        <option value="com.intellij.bigdatatools" />
       </list>
     </option>
   </component>

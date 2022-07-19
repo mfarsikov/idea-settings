@@ -5,10 +5,8 @@
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
       <mapping pattern="fail" type="AUTO_DETECTED" />
-      <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="datamart-membership-info" type="JSON" />
-      <mapping ext="conf" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -20,12 +18,11 @@
       <mapping pattern="spec_failures" type="PLAIN_TEXT" />
       <mapping pattern="rst" type="PLAIN_TEXT" />
       <mapping pattern="network-parameters" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="processors" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
-      <mapping ext="theme" type="PLAIN_TEXT" />
       <mapping ext="jxb" type="XML" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="7ZIP" />
       <removed_mapping ext="chm" approved="true" type="Native" />
@@ -34,9 +31,9 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="psd" approved="true" type="Adobe Photoshop" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="vm" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="t" approved="true" type="PLAIN_TEXT" />
     </extensionMap>

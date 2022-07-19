@@ -6,68 +6,28 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="4">
+    <group value="Stop" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Stop" is_action="true" action_type="-1" position="3">
+    <group value="RunnerActionsTouchbar" is_group="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunnerActionsTouchbar" is_group="true" action_type="-1" position="2">
+    <group value="RunConfiguration" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Terminal.OpenInTerminal" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt Key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompileDirty" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt Key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Shift Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="QuickJavaDoc" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="FindUsages" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RenameElement" is_action="true" action_type="1" position="0">
@@ -77,21 +37,35 @@
       <path value="Default with Shift Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="XDebugger.AttachToProcess" is_action="true" action_type="1" position="1">
+    <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="osmedile.intellij.stringmanip.RepeatAction" is_action="true" action_type="1" position="2">
+    <group value="FindUsages" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="QuickImplementations" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="EvaluateExpression" is_action="true" action_type="1" position="3">
+    <group value="osmedile.intellij.stringmanip.RepeatAction" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.AttachToProcess" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="FileStructurePopup" is_action="true" action_type="1" position="5">
