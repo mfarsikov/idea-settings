@@ -1,0 +1,19 @@
+<application>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="_K___Npart_00000_0da6debf_be67_44e5_a0f6_18e9772cd090_c000_snappy_parquet_0.data.csv/part-00000-0da6debf-be67-44e5-a0f6-18e9772cd090-c000.snappy.parquet(downloaded)" />
+        <option value="Users/Maksym/IdeaProjects/project-spr/src/test/resources/TenantPageVisitProcessorTest/init/domain_to_person_profile_id/1681/1638840244/part-00000-15c81b60-2560-4e56-b2cc-e3ed7030afc8-c000.snappy.csv" />
+        <option value="uxrfB_G_part_00008_15c81b60_2560_4e56_b2cc_e3ed7030afc8_c000_snappy_parquet_0.data.csv/part-00008-15c81b60-2560-4e56-b2cc-e3ed7030afc8-c000.snappy.parquet(downloaded)" />
+        <option value="i_n9ZSRpart_00005_15c81b60_2560_4e56_b2cc_e3ed7030afc8_c000_snappy_parquet_0.data.csv/part-00005-15c81b60-2560-4e56-b2cc-e3ed7030afc8-c000.snappy.parquet(downloaded)" />
+        <option value="__l_3___GN_part_00002_15c81b60_2560_4e56_b2cc_e3ed7030afc8_c000_snappy_parquet_0.data.csv/part-00002-15c81b60-2560-4e56-b2cc-e3ed7030afc8-c000.snappy.parquet(downloaded)" />
+        <option value="Q__PH__YQpart_00001_15c81b60_2560_4e56_b2cc_e3ed7030afc8_c000_snappy_parquet_0.data.csv/part-00001-15c81b60-2560-4e56-b2cc-e3ed7030afc8-c000.snappy.parquet(downloaded)" />
+        <option value="___t2part_00000_15c81b60_2560_4e56_b2cc_e3ed7030afc8_c000_snappy_parquet_0.data.csv/part-00000-15c81b60-2560-4e56-b2cc-e3ed7030afc8-c000.snappy.parquet(downloaded)" />
+        <option value="Z__zk__R_i_part_00009_9783a875_124c_4c73_84ff_dca9e9041000_c000_snappy_parquet_0.data.csv/part-00009-9783a875-124c-4c73-84ff-dca9e9041000-c000.snappy.parquet(downloaded)" />
+        <option value="____Fzpart_00006_9783a875_124c_4c73_84ff_dca9e9041000_c000_snappy_parquet_0.data.csv/part-00006-9783a875-124c-4c73-84ff-dca9e9041000-c000.snappy.parquet(downloaded)" />
+        <option value="p4E_g_part_00002_9783a875_124c_4c73_84ff_dca9e9041000_c000_snappy_parquet_0.data.csv/part-00002-9783a875-124c-4c73-84ff-dca9e9041000-c000.snappy.parquet(downloaded)" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="/private/var/folders/nl/x0z2nwvs2qxfmbs7x7h4x5kh0000gp/T/HDFS-downloaded" />
+  </component>
+</application>

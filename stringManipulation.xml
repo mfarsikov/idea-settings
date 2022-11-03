@@ -1,9 +1,9 @@
 <application>
   <component name="StringManipulationState">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="23" />
-      </DonationNagger>
+    <option name="lastAction">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToUpperCaseAction" />
+      </UniversalActionModel>
     </option>
     <option name="version" value="2" />
   </component>
