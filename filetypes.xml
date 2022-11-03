@@ -15,7 +15,9 @@
       <mapping pattern="network-parameters" type="PLAIN_TEXT" />
       <mapping ext="processors" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="jxb" type="XML" />
+      <mapping ext="txt" type="requirements-pro.txt" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="7ZIP" />
       <removed_mapping ext="chm" approved="true" type="Native" />
