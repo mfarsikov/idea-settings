@@ -5,13 +5,13 @@
       <mapping ext="runtime" type="ARCHIVE" />
       <mapping pattern="fail" type="AUTO_DETECTED" />
       <mapping pattern="datamart-membership-info" type="JSON" />
+      <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping pattern="upload" type="PLAIN_TEXT" />
+      <mapping pattern="spec_failures" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern="rst" type="PLAIN_TEXT" />
       <mapping pattern="claim" type="PLAIN_TEXT" />
       <mapping pattern="META-INF" type="PLAIN_TEXT" />
-      <mapping pattern="procfile" type="PLAIN_TEXT" />
-      <mapping pattern="spec_failures" type="PLAIN_TEXT" />
-      <mapping pattern="rst" type="PLAIN_TEXT" />
       <mapping pattern="network-parameters" type="PLAIN_TEXT" />
       <mapping ext="processors" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
